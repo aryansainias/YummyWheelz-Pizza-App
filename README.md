@@ -17,3 +17,21 @@ Yummy Wheelz Pizza Delivery simplifies the process of ordering pizza online. Wit
 To get started with Yummy Wheelz Pizza Delivery, follow these steps:
 
 1. Clone this repository: https://github.com/aryansainias/YummyWheelz-Pizza-App.git
+2. Navigate to the project directory: cd yummy-wheelz
+
+Run Script-
+  
+1. npm i
+2. npm start 
+
+### Technologies Used:
+
+1. React.js
+2. Redux Toolkit
+3. ReactStrap
+4. CSS
+
+License
+This project is licensed under the MIT License.
+
+
