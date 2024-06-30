@@ -31,7 +31,7 @@ Run Script-
 3. ReactStrap
 4. CSS
 
-###License
+### License
 This project is licensed under the MIT License.
 
 
