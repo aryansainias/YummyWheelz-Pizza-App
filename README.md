@@ -1,2 +1,19 @@
-# YummyWheelz-Pizza-App
-A taste of perfection, delivered to your door. Yummy Wheelz - food delivery, elevated.
+# Yummy Wheelz Pizza Delivery App
+
+Welcome to Yummy Wheelz Pizza Delivery, your go-to app for ordering delicious pizzas straight to your doorstep!
+
+## Overview
+
+Yummy Wheelz Pizza Delivery simplifies the process of ordering pizza online. With our app, you can browse through a variety of pizzas, customize your order, and have it delivered quickly. Whether you're craving classic pepperoni or adventurous with exotic toppings, we've got you covered.
+
+## Features
+
+- **Browse Menu**: Explore our diverse pizza menu.
+- **Secure Payments**: Safe and convenient payment options integrated into the app.
+- **User Friendly**: User Friendly Interface.
+
+## Installation
+
+To get started with Yummy Wheelz Pizza Delivery, follow these steps:
+
+1. Clone this repository:
