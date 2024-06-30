@@ -16,4 +16,4 @@ Yummy Wheelz Pizza Delivery simplifies the process of ordering pizza online. Wit
 
 To get started with Yummy Wheelz Pizza Delivery, follow these steps:
 
-1. Clone this repository:
+1. Clone this repository: https://github.com/aryansainias/YummyWheelz-Pizza-App.git
