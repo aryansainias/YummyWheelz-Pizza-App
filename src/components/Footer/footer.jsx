@@ -7,7 +7,8 @@ import "../../styles/footer.css";
 const Footer = () => {
   return (
    
-    <footer/>
+        <p className="footer">© 2024 Yummy Wheelz. All rights reserved.</p>
+
   );
 };
 
