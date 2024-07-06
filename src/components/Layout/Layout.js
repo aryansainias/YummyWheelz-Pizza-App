@@ -1,7 +1,7 @@
 import React from "react";
 
 import Header from "../Header/Header.jsx";
-import Footer from "../Footer/Footer.jsx";
+import Footer from "../Footer/footer.jsx";
 import Routes from "../../routes/Routers";
 import Carts from "../UI/cart/Carts.jsx";
 
