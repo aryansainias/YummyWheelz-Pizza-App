@@ -6,7 +6,7 @@ Welcome to Yummy Wheelz Pizza Delivery, your go-to app for ordering delicious pi
 ![](demo.png)
 
 
-Visit [Yummywheelz](https://yummywheelzpizza.netlify.app/) to see the project in action.
+Visit Yummywheelz here :Backhand Index Pointing Right:  [Yummywheelz](https://yummywheelzpizza.netlify.app/) to see the project in action.
 
 
 
@@ -31,8 +31,8 @@ To get started with Yummy Wheelz Pizza Delivery, follow these steps:
 
 Run Script-
   
-1. npm i
-2. npm start 
+1. npm i   (To install all the dependencies)
+2. npm start (Command is used to start a project)
 
 ### Technologies Used:
 
