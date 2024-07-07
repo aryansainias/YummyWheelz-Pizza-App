@@ -1,6 +1,8 @@
 # Yummy Wheelz Pizza Delivery App
 
-Welcome to Yummy Wheelz Pizza Delivery, your go-to app for ordering delicious pizzas straight to your doorstep! Click on :point_right:  [Yummywheelz](https://yummywheelzpizza.netlify.app/) to see the project in action.
+Welcome to Yummy Wheelz Pizza Delivery, your go-to app for ordering delicious pizzas straight to your doorstep! 
+
+Click on :point_right:  [Yummywheelz](https://yummywheelzpizza.netlify.app/) to see the project in action.
 
 
 ![](demo.png)
