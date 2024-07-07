@@ -36,8 +36,8 @@ const Contact = () => {
         out to us through any of the following channels:
       </p>
       <ul style={listStyles}>
-        <li>Email: <a href="mailto:info@yummywheelzz.com">info@yummywheelzzapp.com</a></li>
-        <li>Phone: <a href="tel:+15551234567">+1 (555) 123-4567</a></li>
+        <li>Email: <a href="mailto:info@aryansainias2000@gmail.com">info@aryansainias2000@gmail.com</a></li>
+         <li>Phone: <a href="tel:+91xxxxxxxxxx">+91 xxxxxxxxxx</a></li>
         <li>Address: 123 Pizza Street, Pizza Town, PZ 54321</li>
       </ul>
       <p style={{ fontSize: '14px', color: '#666' }}>
