@@ -6,7 +6,7 @@ Welcome to Yummy Wheelz Pizza Delivery, your go-to app for ordering delicious pi
 ![](demo.png)
 
 
-Visit Yummywheelz here :point_right:  [Yummywheelz](https://yummywheelzpizza.netlify.app/) to see the project in action.
+Click on :point_right:  [Yummywheelz](https://yummywheelzpizza.netlify.app/) to see the project in action.
 
 
 
