@@ -21,7 +21,6 @@ Yummy Wheelz Pizza Delivery simplifies the process of ordering pizza online. Wit
 ## Features
 
 - **Browse Menu**: Explore our diverse pizza menu.
-- **Secure Payments**: Safe and convenient payment options integrated into the app.
 - **User Friendly**: User Friendly Interface.
 
 ## Installation
