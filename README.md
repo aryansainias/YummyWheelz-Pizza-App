@@ -34,8 +34,8 @@ To get started with Yummy Wheelz Pizza Delivery, follow these steps:
 
 Run Script-
   
-1. npm i   (To install all the dependencies)
-2. npm start (Command is used to start a project)
+1. #### `npm i`  (To install all the dependencies)
+2. #### `npm start` (Command is used to start a project)
 
 ### Technologies Used:
 
